@@ -11,9 +11,6 @@
 
 [Discord](https://discord.gg/WQknYbRKBt)    [Ko-fi](https://ko-fi.com/greyfoxdevelopment)
 
-> DEV NOTE!!!!!!
-> CoPilot is listed as a contributor because I asked it a question in VCS about the code and when it answered it pushed the commit to Github without my permission because I had it on "allow All" in VCS so it could answer
-> Questions if I needed it to 
 
 ## Your wishes, pity, and daily progress at a glance
 
